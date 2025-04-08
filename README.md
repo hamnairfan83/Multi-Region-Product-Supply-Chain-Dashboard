@@ -1,4 +1,4 @@
-                                                  Multi-Region Product & Supply Chain Dashboard – Tableau + Excel Project
+                                                  Multi-Region Product & Supply Chain Dashboard 
 
                                                   
 Project Overview
